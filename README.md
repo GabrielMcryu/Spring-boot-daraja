@@ -1,0 +1,2 @@
+# SPRING BOOT DARAJA
+A practice project on intergrating mpesa service to a spring boot application using the daraja api. Its features include: B2C transaction, C2B transaction, check account balance, check transaction status and STk push transaction
